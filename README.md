@@ -10,3 +10,7 @@ Suppose you required an easy database to work with in Spring. The JPA is a fanta
 3. Within the repository create your function queries. So something like findByID() or findAll() or findByBrand() the sweet thing here is that you do not need to
 implement those function bodies. JPA does it for you. That's super sweet.
 4. Navigate to your main class and create a car instance and test out all the sweet query functions you've created! Watch how smoothly they will work
+
+Below is a screenshot of what the app looks like when run
+
+[![jpa.png](https://i.postimg.cc/MHNRG1SF/jpa.png)](https://postimg.cc/Mf0XPMX7)
